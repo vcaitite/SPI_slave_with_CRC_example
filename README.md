@@ -21,3 +21,8 @@ Os passos executados por esse programa são:
 [7.] Descarte da mensagem caso a comparação não corresponder. Ou, caso contrário, \textit{print} da mensagem, podendo essa ser visualizada em um terminal serial. 
 
 [8.] Volta para o item 4.
+
+Para mais informações entre em contato com os desenvolvedores:
+
+Amanda Alkmim Rezende Teixeira: amandaarteixeira@hotmail.com e Vitor Gabrie Reis Caitite: vitorgabriel1000@hotmail.com.
+
